@@ -57,7 +57,7 @@
     "chromedriver": "^2.21.2"
   },
   "dependencies": {
-    "freeice": "^2.1.2",
+    "freeice": "https://github.com/Telmate/freeice.git",
     "inherits": "^2.0.1",
     "merge": "^1.2.0",
     "ua-parser-js": "^0.7.7",
