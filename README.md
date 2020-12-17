@@ -26,7 +26,7 @@ Installation instructions
 Be sure to have installed [Node.js](https://nodejs.org/en/) and [Bower](https://bower.io/) in your system:
 
 ```bash
-curl -sL https://deb.nodesource.com/setup_4.x | sudo bash -
+curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
 sudo apt-get install -y nodejs
 sudo npm install -g bower
 ```
@@ -97,14 +97,14 @@ Useful Links
 
 Usage:
 
-* [Installation Guide](http://doc-kurento.readthedocs.io/en/stable/user/installation.html)
-* [Compilation Guide](http://doc-kurento.readthedocs.io/en/stable/dev/dev_guide.html#developing-kms)
-* [Contribution Guide](http://doc-kurento.readthedocs.io/en/stable/project/contribute.html)
+* [Installation Guide](https://doc-kurento.readthedocs.io/en/latest/user/installation.html)
+* [Compilation Guide](https://doc-kurento.readthedocs.io/en/latest/dev/dev_guide.html#developing-kms)
+* [Contribution Guide](https://doc-kurento.readthedocs.io/en/latest/project/contribute.html)
 
 Issues:
 
 * [Bug Tracker](https://github.com/Kurento/bugtracker/issues)
-* [Support](http://doc-kurento.readthedocs.io/en/stable/user/support.html)
+* [Support](https://doc-kurento.readthedocs.io/en/latest/user/support.html)
 
 News:
 
